@@ -26,7 +26,7 @@ The project follows a layered architecture pattern, which separates the concerns
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/BooksAI.git
+git clone https://github.com/ednilsonmartins/book-store-basic-api.git
 cd BookStore
 ```
 
