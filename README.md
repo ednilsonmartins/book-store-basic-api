@@ -58,7 +58,7 @@ dotnet run --project Presentation/Presentation.csproj
 ## Browse the API
 Once the project is running, you can browse the API by navigating to the following URL in your web browser:
 ```
-https://localhost:5001/swagger
+http://localhost:5001/swagger
 ```
 ** Remember to apply the migrations before using the API!
 
@@ -86,6 +86,8 @@ To remove the database container, run the following command:
 ```bash
 make db-remove
 ```
+
+## Migrations
 
 ### Adding a Migration
 To add a migration, run the following command:
